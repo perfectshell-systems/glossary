@@ -1,5 +1,3 @@
-Here is the complete library. The 12 systems are now four sentences each. Each software and hardware category has a short introductory paragraph explaining why it is necessary, followed by the full list of technologies.
-
 ---
 
 # Part I: The 12 Necessary Systems
